@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{30B74477-663C-4CC3-B85C-7F80CA72D514}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CRUDExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/PersonsService.cs">
+    <Files>
+      <File FileName="CRUDExample/Program.cs" Line="9" Column="66" />
+      <File FileName="CRUDExample/Controllers/PersonsController.cs" Line="30" Column="56" />
+      <File FileName="Services/CountriesService.cs" Line="32" Column="40" />
+      <File FileName="CRUDTests/CountriesServiceTest.cs" Line="16" Column="59" />
+      <File FileName="CRUDTests/PersonsServiceTest.cs" Line="21" Column="59" />
+      <File FileName="Services/PersonsService.cs" Line="256" Column="25" />
+      <File FileName="CRUDExample/Views/Persons/Index.cshtml" Line="21" Column="46" />
+      <File FileName="ServiceContracts/DTO/PersonResponse.cs" Line="10" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRUDSolution" expanded="True">
+            <Node name="CRUDExample" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Persons" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="CRUDTests" expanded="True" />
+            <Node name="ServiceContracts" expanded="True">
+              <Node name="DTO" expanded="True" />
+            </Node>
+            <Node name="Services" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="PersonsService.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CRUDSolution" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

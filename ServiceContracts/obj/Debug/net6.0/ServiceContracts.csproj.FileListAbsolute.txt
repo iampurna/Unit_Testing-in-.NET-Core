@@ -1,0 +1,15 @@
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/bin/Debug/net6.0/ServiceContracts.deps.json
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/bin/Debug/net6.0/ServiceContracts.dll
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/bin/Debug/net6.0/ServiceContracts.pdb
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/bin/Debug/net6.0/Entities.dll
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/bin/Debug/net6.0/Entities.pdb
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.AssemblyReference.cache
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/obj/Debug/net6.0/ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfoInputs.cache
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/obj/Debug/net6.0/ServiceContracts.AssemblyInfo.cs
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CoreCompileInputs.cache
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/obj/Debug/net6.0/ServiceContracts.csproj.CopyComplete
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/obj/Debug/net6.0/ServiceContracts.dll
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/obj/Debug/net6.0/refint/ServiceContracts.dll
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/obj/Debug/net6.0/ServiceContracts.pdb
+/Users/purnalungeli/Projects/CRUDSolution/ServiceContracts/obj/Debug/net6.0/ref/ServiceContracts.dll

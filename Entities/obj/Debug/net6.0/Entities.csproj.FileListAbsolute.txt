@@ -1,0 +1,11 @@
+/Users/purnalungeli/Projects/CRUDSolution/Entities/bin/Debug/net6.0/Entities.deps.json
+/Users/purnalungeli/Projects/CRUDSolution/Entities/bin/Debug/net6.0/Entities.dll
+/Users/purnalungeli/Projects/CRUDSolution/Entities/bin/Debug/net6.0/Entities.pdb
+/Users/purnalungeli/Projects/CRUDSolution/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/purnalungeli/Projects/CRUDSolution/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache
+/Users/purnalungeli/Projects/CRUDSolution/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs
+/Users/purnalungeli/Projects/CRUDSolution/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache
+/Users/purnalungeli/Projects/CRUDSolution/Entities/obj/Debug/net6.0/Entities.dll
+/Users/purnalungeli/Projects/CRUDSolution/Entities/obj/Debug/net6.0/refint/Entities.dll
+/Users/purnalungeli/Projects/CRUDSolution/Entities/obj/Debug/net6.0/Entities.pdb
+/Users/purnalungeli/Projects/CRUDSolution/Entities/obj/Debug/net6.0/ref/Entities.dll
